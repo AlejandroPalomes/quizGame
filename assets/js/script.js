@@ -933,4 +933,3 @@ function disableButtons(opt) {
         soloBtn.classList.remove("disabledBtn");
     }
 }
-
